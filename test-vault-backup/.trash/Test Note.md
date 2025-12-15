@@ -1,0 +1,1 @@
+This is my first Obsidian note on Android emulator.

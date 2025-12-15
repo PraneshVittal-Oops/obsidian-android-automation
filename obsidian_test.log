@@ -1,0 +1,54 @@
+2025-12-13 22:42:55,442 - INFO - Emulator detected
+2025-12-13 22:43:09,707 - INFO - Emulator detected
+2025-12-13 22:44:59,626 - INFO - adb devices
+2025-12-13 22:44:59,683 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-13 22:45:04,756 - INFO - adb shell input tap 500 1500
+2025-12-13 22:45:05,840 - INFO - adb shell input text "Automation_note_created_via_Python"
+2025-12-13 22:45:07,226 - INFO - adb shell input keyevent KEYCODE_ENTER
+2025-12-13 22:45:09,364 - INFO - adb exec-out screencap -p > obsidian_text_automation.png
+2025-12-13 22:46:23,791 - INFO - adb devices
+2025-12-13 22:46:23,847 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-13 22:46:28,993 - INFO - adb shell input tap 500 1500
+2025-12-13 22:46:30,075 - INFO - adb shell input text "Automation_note_created_via_Python"
+2025-12-13 22:46:31,311 - INFO - adb shell input keyevent KEYCODE_ENTER
+2025-12-13 22:46:33,435 - INFO - adb exec-out screencap -p > obsidian_text_automation.png
+2025-12-13 22:47:47,630 - INFO - adb devices
+2025-12-13 22:47:47,680 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-13 22:47:52,755 - INFO - adb shell input tap 500 1500
+2025-12-13 22:47:53,841 - INFO - adb shell input text "Persistence_test_OK"
+2025-12-13 22:47:54,796 - INFO - adb shell input keyevent KEYCODE_ENTER
+2025-12-13 22:47:56,867 - INFO - adb shell am force-stop md.obsidian
+2025-12-13 22:47:59,119 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-13 22:48:04,295 - INFO - adb exec-out screencap -p > obsidian_persistence_test.png
+2025-12-13 22:48:28,086 - INFO - adb devices
+2025-12-13 22:48:28,135 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-13 22:48:33,252 - INFO - adb shell input tap 500 1500
+2025-12-13 22:48:34,330 - INFO - adb shell input text "Persistence_test_OK"
+2025-12-13 22:48:35,442 - INFO - adb shell input keyevent KEYCODE_ENTER
+2025-12-13 22:48:37,539 - INFO - adb shell am force-stop md.obsidian
+2025-12-13 22:48:39,820 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-13 22:48:44,970 - INFO - adb exec-out screencap -p > obsidian_persistence_test.png
+2025-12-15 16:19:56,995 - INFO - adb devices
+2025-12-15 16:19:57,126 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-15 16:20:02,336 - INFO - adb shell input tap 500 1500
+2025-12-15 16:20:03,932 - INFO - adb shell input text "Persistence_test_OK"
+2025-12-15 16:20:05,208 - INFO - adb shell input keyevent KEYCODE_ENTER
+2025-12-15 16:20:07,295 - INFO - adb shell am force-stop md.obsidian
+2025-12-15 16:20:09,505 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-15 16:20:14,763 - INFO - adb exec-out screencap -p > obsidian_persistence_test.png
+2025-12-15 16:26:19,330 - INFO - adb devices
+2025-12-15 16:26:19,414 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-15 16:26:24,527 - INFO - adb shell input tap 500 1500
+2025-12-15 16:26:25,609 - INFO - adb shell input text "Persistence_test_OK"
+2025-12-15 16:26:26,543 - INFO - adb shell input keyevent KEYCODE_ENTER
+2025-12-15 16:26:28,665 - INFO - adb shell am force-stop md.obsidian
+2025-12-15 16:26:30,930 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-15 16:26:36,306 - INFO - adb exec-out screencap -p > obsidian_persistence_test.png
+2025-12-15 16:27:37,998 - INFO - adb devices
+2025-12-15 16:27:38,051 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-15 16:27:43,206 - INFO - adb shell input tap 500 1500
+2025-12-15 16:27:44,296 - INFO - adb shell input text "Persistence_test_OK"
+2025-12-15 16:27:44,724 - INFO - adb shell input keyevent KEYCODE_ENTER
+2025-12-15 16:27:46,854 - INFO - adb shell am force-stop md.obsidian
+2025-12-15 16:27:49,152 - INFO - adb shell am start -n md.obsidian/.MainActivity
+2025-12-15 16:27:54,281 - INFO - adb exec-out screencap -p > obsidian_persistence_test.png
